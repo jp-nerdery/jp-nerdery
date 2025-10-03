@@ -205,9 +205,11 @@ I'm a passionate **Full-Stack AI Engineer** and **Technical Leader** with 10+ ye
 ### 📝 Publications & Research
 
 **Academic Papers:**
-- "[Improvement of AI-based Soundness Assessment Technology in Bridge Maintenance](https://confit.atlas.jp/guide/event/jsce2023/subject/CS11-35/tables)" - JSCE (2023)
-- "[Application of AI Diagnostic Technology to Steel Components](https://pub.confit.atlas.jp/en/event/jsce2024/presentation/CS11-44)" - JSCE (2024)
 - "[Development of AI-based Hazard Prediction Activity Support System](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202302228011978446)" - JSCE (2022)
+- "[A study on the detection of concrete areas in images by AI for the automation of visual inspection](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202302234280900718)" - JSCE (2022)
+- "[A study on determining the visual inspection of sinking cracks by AI](https://confit.atlas.jp/guide/event/jsce2022/subject/CS14-25/detail)" - JSCE (2022)
+- "[Improving the accuracy of AI-based soundness diagnosis technology for bridge maintenance management](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202302261559685261)" - JSCE (2023)
+- "[Application of AI Diagnostic Technology to Steel Components](https://pub.confit.atlas.jp/en/event/jsce2024/presentation/CS11-44)" - JSCE (2024)
 
 **Patents:**
 - "[Search Label Generation System (検索用ラベル生成システム)](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202203007678682368)" - Patent Application 2021-070521
