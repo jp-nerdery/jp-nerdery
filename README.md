@@ -30,6 +30,7 @@ I'm a passionate **Full-Stack AI Engineer** and **Technical Leader** with 10+ ye
 
 **👨‍💼 Engineering Leadership & Digital Transformation** (7+ Years)
 - **Startup Foundation**: Built tech ventures from ground zero to full operation
+- **SaaS Development**: End-to-end SaaS product development, operations, and go-to-market strategy
 - **Enterprise Architecture**: End-to-end cloud ecosystem design and implementation
 - **Team Development**: Engineering mentorship, talent cultivation, and agile delivery management
 - **Strategic IT Leadership**: Digital workplace transformation and modern productivity platforms
@@ -86,6 +87,9 @@ I'm a passionate **Full-Stack AI Engineer** and **Technical Leader** with 10+ ye
 - **Computer Vision**: Object Detection (YOLO, R-CNN), Image Segmentation (U-Net, Segformer), Transfer Learning
 - **Natural Language Processing**: BERT, T5, GPT models, RAG systems, Custom LLM fine-tuning via HuggingFace
 - **Deep Learning**: CNN, RNN, LSTM, Transformer architectures, AutoML
+- **ML Optimization**: LightGBM, XGBoost, CatBoost, Optuna hyperparameter tuning
+- **Advanced Optimization**: Genetic algorithms, BDGS (Block Diagonal Gauss-Seidel), Convex optimization, ADMM (Alternating Direction Method of Multipliers)
+- **Metaheuristic Optimization**: Polygon nesting/packing algorithms, Combinatorial optimization, Simulated annealing
 - **3D Processing**: Point Cloud Analysis, LiDAR data processing, 3D Segmentation
 - **MLOps**: Model versioning, A/B testing, Continuous training, Model monitoring
 
@@ -138,6 +142,7 @@ I'm a passionate **Full-Stack AI Engineer** and **Technical Leader** with 10+ ye
 - **NoSQL**: Document stores, Graph databases, Key-value stores
 - **Big Data**: Data warehousing, ETL processes, Real-time analytics
 - **Vector Databases**: Similarity search, Embedding storage for RAG systems
+- **Data Governance**: Compliance frameworks, Data quality management, Access control policies
 
 ### 🌐 Network & Security
 
